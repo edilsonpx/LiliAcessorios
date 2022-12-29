@@ -549,7 +549,7 @@ nav.mobile  ul{
         font-weight: 700; /* fonte */ 
         width: 100%;
         display: block;
-        background: #778899;
+        background: #000000;
         border-bottom: 10px solid #F8F8FF; /* deixa botão em 3D  e com borda*/ 
         font-size: 17px;
         padding:8px 0;  /* tamanho das bolas*/
@@ -779,9 +779,9 @@ box-shadow: 0px 0px 10px rgb(0, 0, 0.7);
 }
 
 
-img:hover{
-    border: 10px solid #FF0000;  /* ao colocar cursor em cima da foto as bordas fica vermelha*/
-}
+/*img:hover{
+  /*  border: 10px solid #FF0000;  /* ao colocar cursor em cima da foto as bordas fica vermelha*/
+} 
 
 
 nav.tex-rolando {
