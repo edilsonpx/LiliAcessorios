@@ -550,7 +550,7 @@ nav.mobile  ul{
         width: 100%;
         display: block;
         background: #000000;
-        border-bottom: 10px solid #F8F8FF; /* deixa botão em 3D  e com borda*/ 
+        border-bottom: 10px solid #FFD700; /* deixa botão em 3D  e com borda*/ 
         font-size: 17px;
         padding:8px 0;  /* tamanho das bolas*/
         border-radius: 0px ; /* formato redondo*/
@@ -705,7 +705,7 @@ margin: 0px;
 
 #descriçao-titulo{
     padding: 1%;  /* tamanho das pordas*/
-     border: 5px solid #FFF;  /* cor da borta das fotos*/
+     border: 5px solid #FFD700;  /* cor da borta das fotos*/
          border-radius: 10px;
    cursor: pointer;  /*cursor pra foto*/
    background: #000000;
