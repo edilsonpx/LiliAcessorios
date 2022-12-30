@@ -731,7 +731,7 @@ margin: 0px;
 
     #central-ID{
     margin: 0px;
-    padding: -5px ;  /* alturas das bolsas*/
+    padding: 0px ;  /* alturas das bolsas*/
     flex-direction: column; /* deixa o texto em coluna*/
 }
 
