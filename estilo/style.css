@@ -669,10 +669,10 @@ nav.mobile  ul{
         width: 100%;
         display: block;
         background: #000000;
-        border-bottom: 2px solid #FFD700; /* deixa botão em 3D  e com borda*/ 
+        border-bottom: 7px solid #FFD700; /* deixa botão em 3D  e com borda*/ 
         font-size: 17px;
         padding:8px 0;  /* tamanho das bolas*/
-        border-radius: 0px ; /* formato redondo*/
+        border-radius: 20px ; /* formato redondo*/
 
 
 
